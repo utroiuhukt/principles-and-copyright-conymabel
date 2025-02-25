@@ -4,10 +4,10 @@
 1. **What are the "Four Freedoms" defined by the Free Software Foundation?***
 
 They are: 
-⋅⋅1. run the program for any purpose.
-⋅⋅2. study and modify it.
-⋅⋅3. share copies. 
-⋅⋅4. improve it and share the improvements.
+  ⋅⋅1. run the program for any purpose.
+  ⋅⋅2. study and modify it.
+  ⋅⋅3. share copies. 
+  ⋅⋅4. improve it and share the improvements.
 
 2. **How does the GNU Manifesto justify the ethical importance of free software?***
 
